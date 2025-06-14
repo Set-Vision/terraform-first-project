@@ -18,4 +18,5 @@ terraform apply
 terraform destroy
 
 ## REGION
+
 `us-east-1
