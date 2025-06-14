@@ -10,12 +10,12 @@ This is my first Terraform project, which includes:
 ## COMMANDS USED
 
 ```bash
-terraform init
-terraform fmt
-terraform validate
-terraform plan
-terraform apply
-terraform destroy
+terraform init  
+terraform fmt  
+terraform validate  
+terraform plan  
+terraform apply  
+terraform destroy  
 
 ## REGION
 
